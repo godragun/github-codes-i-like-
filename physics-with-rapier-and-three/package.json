@@ -1,0 +1,10 @@
+{
+  "name": "physics-with-rapier-and-three",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "serve ."
+  },
+  "devDependencies": {
+    "serve": "^14.2.1"
+  }
+}
