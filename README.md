@@ -1,6 +1,12 @@
 # github-codes-i-like-
 
-This repository contains a curated collection of code snippets and mini-projects in various domains, such as web design, UI effects, games, and more. Each folder showcases a working example or interesting approach with code ready to learn from or build on. 
+<p align="center">
+  <img src="images/Screenshot%202026-05-24%20010033.png" alt="Screenshot 2026-05-24 010033" width="225"/>
+  <img src="images/Screenshot%202026-05-25%20122538.png" alt="Screenshot 2026-05-25 122538" width="225"/>
+  <img src="images/Screenshot%202026-05-25%20122624.png" alt="Screenshot 2026-05-25 122624" width="225"/>
+</p>
+
+This repository contains a curated collection of code snippets and mini-projects in various domains, such as web design, UI effects, games, and more. Each folder showcases a working example or interesting technique, perfect for quick reference or inspiration.
 
 ## What's Inside?
 
